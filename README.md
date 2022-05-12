@@ -5,5 +5,4 @@
 - :beginner: Full Stack Developer
 - :blue_book: Focusing on JAVA & VUE
 - :hammer: Creator of applications and frameworks
-- :meat_on_bone: Meat lover
 - :rocket: I want to travel around the universe.

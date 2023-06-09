@@ -3,6 +3,6 @@
 ### Hello，World 👋
 
 - :beginner: Full Stack Developer
-- :blue_book: Focusing on JAVA & VUE
+- :blue_book: Focusing on Java & Vue & React
 - :hammer: Creator of applications and frameworks
 - :rocket: I want to travel around the universe.

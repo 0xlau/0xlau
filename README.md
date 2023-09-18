@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=coder-xiaoyi&show_icons=true&theme=default&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&include_all_commits=true&username=coder-xiaoyi" />
 
 ### Hello，World 👋
 

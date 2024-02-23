@@ -2,7 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Me Badge](https://img.shields.io/badge/0xlau.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://0xlau.dev)
+[![CV Badge](https://img.shields.io/badge/Résumé-172B4D?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.0xlau.dev)
+[![Me Badge](https://img.shields.io/badge/0xlau.dev-000000?style=for-the-badge&logo=rss&logoColor=white)](https://0xlau.dev)
 [![X Badge](https://img.shields.io/badge/@thetimothylau-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thetimothylau) 
 [![Outlook Badge](https://img.shields.io/badge/timothy--lau@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:timothy-lau@outlook.com)
 [![Buymeacoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/0xlau) 

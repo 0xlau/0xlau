@@ -12,7 +12,6 @@
 I am ***Timothy Lau*** 😃. I am from China. I’m a software developer with over 8 years of experience. I started as a Lua developer, focusing on developing mobile scripts, then transitioned to JavaScript reverse engineering and web crawlers world and now I mainly focus on developing excellent applications and frameworks using multiple technology stacks.
 
 <br/>
-<br/>
 
 ### Programming Expertise:
 
@@ -52,6 +51,8 @@ I am ***Timothy Lau*** 😃. I am from China. I’m a software developer with ov
 ![Apple](https://img.shields.io/badge/MacOS-MacBook_Pro_(M2_Pro)-0078D6?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-ASUS_X555LN_(Deaded)-999999?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Debian-Cloud_Server-FCC624?style=for-the-badge&logo=debian&logoColor=white)
+
+<br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=0xlau&show_icons=true&theme=default&include_all_commits=true" />
 

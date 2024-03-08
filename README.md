@@ -9,9 +9,17 @@
 [![Buymeacoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/0xlau) 
 [![ETH Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)](https://etherscan.io/address/0x5dB8a9336584E10760c6AbB0C18eAf67996A650C) 
 
+<br/>
+
 I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software developer with over 8 years of experience. I started as a Lua developer, focusing on developing mobile scripts, then transitioned to JavaScript reverse engineering and web crawlers world and now I mainly focus on developing excellent applications and frameworks using multiple technology stacks.
 
 <br/>
+<br/>
+
+<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=0xlau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=0xlau&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
+
+<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=0xlau&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 
 ## Programming Expertise:
 
@@ -55,11 +63,4 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xlau&show_icons=true&theme=default&include_all_commits=true" />
 
-### Something you need to know about me: 👋
-
-- :beginner: Full Stack Developer
-- :blue_book: Focusing on Java & Vue & React
-- :hammer: Creator of applications and frameworks
-- :rocket: I want to travel around the universe.

@@ -13,6 +13,8 @@
 
 I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software developer with over 8 years of experience. I started as a Lua developer, focusing on developing mobile scripts, then transitioned to JavaScript reverse engineering and web crawlers world and now I mainly focus on developing excellent applications and frameworks using multiple technology stacks.
 
+[EPL](https://www.dywt.com.cn/) -> Pascal -> Lua -> JavaScript -> Python -> C(Microcontrollers) -> Java -> TypeScript
+
 <br/>
 
 ## Programming Expertise:

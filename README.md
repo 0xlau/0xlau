@@ -6,9 +6,9 @@
 [![CV Badge](https://img.shields.io/badge/Résumé-172B4D?style=flat&logo=About.me&logoColor=white)](https://cv.timlau.me)
 [![Me Badge](https://img.shields.io/badge/timlau.me-000000?style=flat&logo=rss&logoColor=white)](https://timlau.me)
 [![X Badge](https://img.shields.io/badge/@thetimothylau-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/thetimothylau) 
+[![ETH Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)](https://app.ens.domains/timlau.eth) 
 [![Outlook Badge](https://img.shields.io/badge/hi@timlau.me-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:timothy-lau@outlook.com)
 [![Buymeacoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/0xlau) 
-[![ETH Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)](https://etherscan.io/address/0x5dB8a9336584E10760c6AbB0C18eAf67996A650C) 
 
 
 

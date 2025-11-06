@@ -71,4 +71,6 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=0xlau&theme=nord&color=434D58&point=2F80ED&hide_border=true&line=5394F0&title_color=2F80ED&icon_color=2F80ED&text_color=2F80ED&bg_color=9ca3af00" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 

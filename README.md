@@ -19,9 +19,9 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C971%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C973%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 **I'm an Early 🐤** 
 

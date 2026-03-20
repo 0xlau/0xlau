@@ -19,17 +19,17 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-🌆 Daytime                4116 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
-🌃 Evening                3322 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌙 Night                  1657 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌞 Morning                1291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌆 Daytime                4193 commits        ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌃 Evening                3348 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌙 Night                  1678 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 ```
 
 

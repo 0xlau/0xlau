@@ -19,16 +19,16 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1553 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌆 Daytime                5150 commits        ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌃 Evening                3859 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌞 Morning                1554 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+🌆 Daytime                5151 commits        ██████████░░░░░░░░░░░░░░░   40.54 % 
+🌃 Evening                3861 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
 🌙 Night                  2139 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 ```
 
@@ -37,16 +37,15 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 ```text
 💬 Programming Languages: 
-Other                    47 hrs 48 mins      █████████████████████░░░░   83.50 % 
-TypeScript               8 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Dart                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    41 hrs 45 mins      █████████████████████░░░░   82.99 % 
+TypeScript               7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Dart                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-iTerm2                   50 hrs 48 mins      ██████████████████████░░░   88.73 % 
-VS Code                  6 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+iTerm2                   44 hrs 7 mins       ██████████████████████░░░   87.70 % 
+VS Code                  6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
 

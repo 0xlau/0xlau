@@ -19,17 +19,17 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C778%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1654 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-🌆 Daytime                5427 commits        ██████████░░░░░░░░░░░░░░░   40.58 % 
-🌃 Evening                4009 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-🌙 Night                  2285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌞 Morning                1655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌆 Daytime                5427 commits        ██████████░░░░░░░░░░░░░░░   40.57 % 
+🌃 Evening                4010 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌙 Night                  2286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 ```
 
 
@@ -37,17 +37,17 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 36 mins      ████████████░░░░░░░░░░░░░   49.50 % 
-TypeScript               8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Go                       1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    16 hrs 40 mins      █████████████░░░░░░░░░░░░   51.10 % 
+TypeScript               6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Go                       2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-iTerm2                   14 hrs 26 mins      ███████████░░░░░░░░░░░░░░   43.03 % 
-VS Code                  9 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Unknown Editor           9 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-Codex                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+iTerm2                   14 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.62 % 
+VS Code                  10 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Unknown Editor           6 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Codex                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Xcode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 

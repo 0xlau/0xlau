@@ -19,9 +19,37 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C920%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C923%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌆 Daytime                6869 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌃 Evening                4873 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌙 Night                  2799 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
+Markdown                 4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Swift                    3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+JSON                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Go                       2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 26 mins      █████████████░░░░░░░░░░░░   50.68 % 
+Claude Code              10 hrs 28 mins      ███████████░░░░░░░░░░░░░░   42.64 % 
+iTerm2                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Xcode                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
 
 
 <!--END_SECTION:waka-->

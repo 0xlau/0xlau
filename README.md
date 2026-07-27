@@ -19,17 +19,19 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C268%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-595%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-🌆 Daytime                13774 commits       ███████████░░░░░░░░░░░░░░   42.91 % 
-🌃 Evening                9931 commits        ████████░░░░░░░░░░░░░░░░░   30.94 % 
-🌙 Night                  4626 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌞 Morning                3884 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌆 Daytime                14215 commits       ███████████░░░░░░░░░░░░░░   43.37 % 
+🌃 Evening                10029 commits       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+🌙 Night                  4650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -37,17 +39,40 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
-Go                       17 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-TypeScript               11 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Markdown                 5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Swift                    3 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other                    23 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   34.94 % 
+Go                       18 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+TypeScript               8 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Markdown                 4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Swift                    2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 44 mins      █████████████░░░░░░░░░░░░   51.79 % 
-ChatGPT                  34 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.40 % 
-iTerm2                   1 hr 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Xcode                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+VS Code                  36 hrs 30 mins      █████████████░░░░░░░░░░░░   53.47 % 
+ChatGPT                  29 hrs 49 mins      ███████████░░░░░░░░░░░░░░   43.68 % 
+iTerm2                   1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Xcode                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 60 hrs 1 min (87.92%)
+
+✍️ 67,170 lines written by AI, 25 lines written by hand (99.96% AI-written)
+
+🔤 19,074,122,674 Input Tokens, 60,226,889 Output Tokens
+
+💵 $22763.34 Estimated AI Cost This Week
+
+🧠 519 AI Sessions, 1485 AI Prompts
+
+GPT                      69,867 lines        █████████████████████████   99.97 % 
+Vscode-Wakatime          18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 9,368 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 

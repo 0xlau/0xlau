@@ -28,10 +28,10 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4500 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-🌆 Daytime                17303 commits       ███████████░░░░░░░░░░░░░░   44.21 % 
-🌃 Evening                11881 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌙 Night                  5452 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+🌞 Morning                4607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                17797 commits       ███████████░░░░░░░░░░░░░░   44.35 % 
+🌃 Evening                12159 commits       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌙 Night                  5563 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 ```
 
 
@@ -39,42 +39,42 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.79 % 
-TypeScript               15 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Go                       5 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-JavaScript               3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Markdown                 2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other                    19 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
+TypeScript               14 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Go                       5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JavaScript               3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Rust                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-VS Code                  29 hrs              ████████████░░░░░░░░░░░░░   48.34 % 
-ChatGPT                  27 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.29 % 
-Claude Code              2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-iTerm2                   48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  24 hrs 41 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+ChatGPT                  24 hrs 27 mins      ████████████░░░░░░░░░░░░░   46.75 % 
+Claude Code              2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+iTerm2                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 19 mins (93.87%)
+⏱ AI Coding Time: 49 hrs 29 mins (94.61%)
 
-✍️ 45,046 lines written by AI, 131 lines written by hand (99.71% AI-written)
+✍️ 40,336 lines written by AI, 128 lines written by hand (99.68% AI-written)
 
-🔤 7,151,130,063 Input Tokens, 20,289,034 Output Tokens
+🔤 6,882,861,421 Input Tokens, 19,236,348 Output Tokens
 
-💵 $22769.68 Estimated AI Cost This Week
+💵 $21945.41 Estimated AI Cost This Week
 
-🧠 442 AI Sessions, 1506 AI Prompts
+🧠 411 AI Sessions, 1472 AI Prompts
 
-GPT                      45,159 lines        ███████████████████████░░   93.14 % 
-Opus                     3,059 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Vscode-Wakatime          268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+GPT                      40,339 lines        ███████████████████████░░   92.38 % 
+Opus                     3,059 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Vscode-Wakatime          268 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 8,219 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📚 Verbose Prompter — average 8,387 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 

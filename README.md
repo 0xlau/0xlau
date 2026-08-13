@@ -28,10 +28,10 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-🌆 Daytime                23011 commits       ███████████░░░░░░░░░░░░░░   44.77 % 
-🌃 Evening                15646 commits       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-🌙 Night                  6881 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+🌞 Morning                6093 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                23871 commits       ███████████░░░░░░░░░░░░░░   44.56 % 
+🌃 Evening                16429 commits       ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌙 Night                  7178 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
 

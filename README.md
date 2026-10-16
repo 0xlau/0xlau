@@ -19,19 +19,19 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C792%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C057%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C069%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4823 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-🌆 Daytime                17866 commits       ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌃 Evening                15998 commits       █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌙 Night                  8233 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌞 Morning                5033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+🌆 Daytime                18581 commits       ██████████░░░░░░░░░░░░░░░   38.15 % 
+🌃 Evening                16594 commits       █████████░░░░░░░░░░░░░░░░   34.07 % 
+🌙 Night                  8501 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 ```
 
 
@@ -39,42 +39,42 @@ I am ***Timothy Lau(码农小易)*** 😃. I am from China. I’m a software dev
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Markdown                 16 hrs 37 mins      █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Python                   13 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Dart                     12 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-C++                      7 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Python                   19 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Markdown                 17 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Other                    17 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Dart                     11 hrs 5 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+C++                      9 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🔥 Editors: 
-Codex Vscode             65 hrs              ███████████████████░░░░░░   74.94 % 
-ChatGPT                  12 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Claude Code              7 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-iTerm2                   1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Codex Vscode             70 hrs 54 mins      ███████████████████░░░░░░   77.04 % 
+ChatGPT                  11 hrs 55 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Claude Code              7 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+iTerm2                   1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+VS Code                  39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 79 hrs 32 mins (91.68%)
+⏱ AI Coding Time: 84 hrs 59 mins (92.34%)
 
-✍️ 99,936 lines written by AI, 167 lines written by hand (99.83% AI-written)
+✍️ 115,015 lines written by AI, 166 lines written by hand (99.86% AI-written)
 
-🔤 88,884,354 Input Tokens, 14,538,170 Output Tokens
+🔤 91,840,916 Input Tokens, 14,999,546 Output Tokens
 
-💵 $4101.82 Estimated AI Cost This Week
+💵 $4196.25 Estimated AI Cost This Week
 
-🧠 127 AI Sessions, 933 AI Prompts
+🧠 127 AI Sessions, 885 AI Prompts
 
-GPT                      95,352 lines        ████████████████████████░   95.05 % 
-Opus                     4,867 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Codex-Vscode             102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      110,370 lines       ████████████████████████░   95.69 % 
+Opus                     4,867 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Codex-Vscode             102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 724 characters per prompt
+🤖 AI-Driven — 99.86% of written lines came from AI
+📄 Detailed Prompter — average 714 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 
